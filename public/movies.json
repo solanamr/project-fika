@@ -1,0 +1,286 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Fresh",
+      "description": "Frustada de scrollear por las aplicaciones de citas para terminar en citas aburridas, Noa se arriesga a darle su número a un raro pero carismático Steve, después de un tierno encuentro en la sección de carnes del supermercado.",
+      "year": "4 de marzo, 2022",
+      "genre": "horror",
+      "cast": [
+        "Daisy Edgar-John",
+        "Sebastian Stan",
+        "Jojo T. Gibbs"
+      ],
+      "crew": [
+        "Mimi Cave",
+        "Lauryn Kahn"
+      ],
+      "rating": 3.5,
+      "picture": "https://m.media-amazon.com/images/M/MV5BYTUzNDY5MjctYmJjNi00NDQzLTg4M2UtYTExMTI1ZTVlMzE2XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Don't look up",
+      "description": "Después de descubrir que un meteorito impactará la tierra en seis meses, dos astrónomos indie, dan un tour por los canales de televisión tratando de advertirle al mundo, pero se encuentran con una populación que no les cree nada.",
+      "year": "5 de diciembre, 2021",
+      "genre": "comedy",
+      "cast": [
+        "Jennifer Lawrence",
+        "Leonardo DiCaprio",
+        "Timothée Chalamet"
+      ],
+      "crew": [
+        "Adam McKey",
+        "David Sirota"
+      ],
+      "rating": 3.1,
+      "picture": "https://m.media-amazon.com/images/M/MV5BNzk0OWQzMDQtODg1ZC00Yjg2LWJjYzAtNGRjMjE2M2FlYjZjXkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Licorice Pizza",
+      "description": "Situada en el valle de San Fernando en los años '70, el film sigue a un estudiante de preparatoria que, a la vez, es un niño actor muy exitoso.",
+      "year": "26 de noviembre, 2021",
+      "genre": "drama",
+      "cast": [
+        "Alana Haim",
+        "Cooper Hoffman",
+        "Sean Penn"
+      ],
+      "crew": [
+        "Paul Thomas Anderson",
+        "Paul Thomas Anderson"
+      ],
+      "rating": 3.5,
+      "picture": "https://es.web.img2.acsta.net/pictures/21/10/28/10/47/0535670.jpg"
+    },
+    {
+      "id": 4,
+      "title": "tick, tick…BOOM!",
+      "description": "En la cúspide de su cumpleaños número 30, un jóven prometedor compositor de teatro navega el amor, la amistad y la presión de crear algo espectacular antes de quedarse sin tiempo.",
+      "year": "10 de noviembre, 2021",
+      "genre": "musical",
+      "cast": [
+        "Andrew Garfield",
+        "Vanessa Hudgens",
+        "Alexandra Shipp"
+      ],
+      "crew": [
+        "Lin-Manuel Miranda",
+        "Steven Levenson"
+      ],
+      "rating": 3.9,
+      "picture": "https://m.media-amazon.com/images/M/MV5BZmMyMmE0M2UtN2E2MC00YzVmLTkwODgtOTVhYjVlOTBhY2RjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Eyes of Tammy Faye",
+      "description": "En los años '70s y '80s, Tammy Faye y Jim Bakker pasan de orígenes humildes a crear la red religiosa de radiodifusión más grande del mundo y un parque temático, que fueron venerados por su mensaje de amor, aceptación y prosperidad.",
+      "year": "17 de septiembre, 2021",
+      "genre": "drama",
+      "cast": [
+        "Jessica Chastain",
+        "Andrew Garfield",
+        "Cherry Jones"
+      ],
+      "crew": [
+        "Michael Showalter",
+        "Abe Sylvia"
+      ],
+      "rating": 3.3,
+      "picture": "https://m.media-amazon.com/images/M/MV5BNTg3ZTU5YjAtMGM2OC00YjQzLWE5MTctOGEwMjU0YWY0MmZkXkEyXkFqcGdeQXVyMjgyOTI1ODY@._V1_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Train to Busan",
+      "description": "La ley Marcial es declarada cuando un misterioso brote viral fuerza a Corea a un estado de emergencia. Aquellos en un tren express a Busan, una ciudad que ha esquivado de manera exitosa el brote, debe luchar por su propia supervivencia.",
+      "year": "Julio 2016",
+      "genre": "action",
+      "cast": [
+        "Gong Yoo",
+        "Kim Su-an",
+        "Jung Yu-mi"
+      ],
+      "crew": [
+        "Yeon Sang-ho",
+        "Yeon Sang-ho and Park Joo-suk"
+      ],
+      "rating": 4,
+      "picture": "https://m.media-amazon.com/images/M/MV5BMTkwOTQ4OTg0OV5BMl5BanBnXkFtZTgwMzQyOTM0OTE@._V1_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Everything everywhere all at once",
+      "description": "Una inmigrante china envejecida, se ve envuelta en una loca aventura, donde ella sola puede salvar lo que es importante para ella conectando con las vidas que podria haber llevado en otros universos.",
+      "year": "9 de junio, 2022",
+      "genre": "action",
+      "cast": [
+        "Michelle Yeoh",
+        "Ke Huy Quan",
+        "Stephanie Hsu"
+      ],
+      "crew": [
+        "Daniel Scheinert and Daniel Kwan",
+        "Daniel Scheinert and Daniel Kwan"
+      ],
+      "rating": 4.4,
+      "picture": "https://d135u4jtzauizi.cloudfront.net/EEAAO_BY_JAMESJEAN_FINAL_Compressed_220301_161017.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Inside",
+      "description": "Atrapado en el aislamiento del COVID-19, el comediante y cantante Bo Burnham, intenta mantenerse cuerdo y feliz escribiendo, dirigiendo y actuando en un especial de un sólo hombre.",
+      "year": "30 de mayo, 2021",
+      "genre": "comedy",
+      "cast": [
+        "Bo Burnham"
+      ],
+      "crew": "Bo Burnham",
+      "rating": 4.2,
+      "picture": "https://m.media-amazon.com/images/M/MV5BMDQ0MDc4MGMtYmEyMi00ZDBhLWJiZWQtYzJhZjhmZWQxMTNiXkEyXkFqcGdeQXVyNjYyMjE4NDY@._V1_.jpg"
+    },
+    {
+      "id": 9,
+      "title": "The Mitchells vs. The Machines",
+      "description": "El viaje de una familia peculiar y disfuncional se ve alterada cuando se encuentran en medio del apocalipsis de los robots y de repente se convierten en la última esperanza más improbable de la humanidad.",
+      "year": "23 de abril, 2021",
+      "genre": "animation",
+      "cast": [
+        "Abbi Jacobson",
+        "Danny McBride",
+        "Maya Rudolph"
+      ],
+      "crew": [
+        "Michael Rianda",
+        "Jeff Rowe and Michael Rianda"
+      ],
+      "rating": 3.9,
+      "picture": "https://m.media-amazon.com/images/M/MV5BMjdkZjNjNDItYzc4MC00NTkxLTk1MWEtY2UyZjY5MjUwNDNkXkEyXkFqcGdeQXVyMTA1OTcyNDQ4._V1_.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Judas and the Black Messiah",
+      "description": "Historia de Fred Hampton, vicepresidente del Partido Nacional Pantera Negra, quien fue asesinado en 1969 por una unidad táctica del condado de Cook por orden del FBI y el Departamento de Policía de Chicago.",
+      "year": " 21 de febrero, 2021",
+      "genre": "drama",
+      "cast": [
+        "Lakeith Stanfield",
+        "Daniel Kaluuya",
+        "Dominique Fishback"
+      ],
+      "crew": [
+        "Shaka King",
+        "Shaka King and Will Berson"
+      ],
+      "rating": 4,
+      "picture": "https://m.media-amazon.com/images/M/MV5BMjBjYjBjNTUtOTg0Ni00Yzk2LTg1NWMtNjI2ODk2YjJmZGU0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Borat Subsequent",
+      "description": "14 años después de hacer una película sobre su viaje por los EE. UU., Borat arriesga su vida cuando regresa a los Estados Unidos con su pequeña hija y revela más sobre la cultura, la pandemia de COVID-19 y las elecciones políticas.",
+      "year": "23 de octubre, 2020",
+      "genre": "comedy",
+      "cast": [
+        "Sacha Baron Cohen",
+        "Maria Bakalova"
+      ],
+      "crew": [
+        "Jason Woliner",
+        "Sacha Baron Cohen, Anthony Hines and Peter Baynham"
+      ],
+      "rating": 3.3,
+      "picture": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/636876b54659b6e7143cc82102360eae998aa30ce0132bc810daeb2d33162211._RI_V_TTW_.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Soul",
+      "description": "Joe Gardner es un maestro de secundaria que ama la música jazz. Luego de una exitosa audición en el Half Note Club, repentinamente sufre un accidente que separa su alma de su cuerpo y es transportado al You Seminar, un centro en el que las almas se desarrollan y ganan pasiones antes de ser transportadas a un niño recién nacido. Joe debe conseguir la ayuda de otras almas en formación, para poder volver a la Tierra.",
+      "year": "11 de octubre, 2020",
+      "genre": "animation",
+      "cast": [
+        "Jamie Foxx",
+        "Tina Fey",
+        "Graham Norton"
+      ],
+      "crew": [
+        "Pete Docter",
+        "Pete Docter, Kemp Powers and Mike Jones"
+      ],
+      "rating": 4,
+      "picture": "https://i.ytimg.com/vi/EVB21AxR1Hw/movieposter_en.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Promising Young Woman",
+      "description": "Una jóven atormentada por una tragedia en su pasado se venga de los hombres depredadores que tienen la mala suerte de cruzarse en su camino.",
+      "year": "25 de diciembre, 2020",
+      "genre": "drama",
+      "cast": [
+        "Carey Mulligan",
+        "Bo Burnham",
+        "Jennifer Coolidge"
+      ],
+      "crew": [
+        "Emerald Fennell",
+        "Emerald Fennell"
+      ],
+      "rating": 3.7,
+      "picture": "https://m.media-amazon.com/images/M/MV5BOTgzMzE4MGItZDgxYS00ZGEwLWE3YTctZWY3ZDAyMTk0ZGU4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": 14,
+      "title": "X",
+      "description": "En 1979, un grupo de jóvenes cineastas se dispusieron a hacer una película para adultos en una zona rural de Texas, pero cuando sus solitarios y ancianos anfitriones los atrapan en el acto, el elenco se encuentra luchando por sus vidas.",
+      "year": "18 de marzo, 2022",
+      "genre": "horror",
+      "cast": [
+        "Mia Goth",
+        "Jenna Ortega",
+        "Brittany Snow"
+      ],
+      "crew": [
+        "Ti West",
+        "Ti West"
+      ],
+      "rating": 3.6,
+      "picture": "https://images.justwatch.com/poster/269304567/s592/x"
+    },
+    {
+      "id": 15,
+      "title": "Hamilton",
+      "description": "Una actuación cinematográfica inolvidable, la versión filmada de la producción original de Broadway de Hamilton combina los mejores elementos del teatro en vivo, el cine y la transmisión para llevar el fenómeno a los hogares de todo el mundo para una experiencia única en la vida.",
+      "year": "3 de julio, 2020",
+      "genre": "musical",
+      "cast": [
+        "Lin-Manuel Miranda",
+        "Leslie Odom Jr.",
+        "Renée Elise Goldsberry"
+      ],
+      "crew": [
+        "Thomas Kail",
+        "Lin-Manuel Miranda"
+      ],
+      "rating": 4.1,
+      "picture": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Superbad",
+      "description": "Dos estudiantes de último año de secundaria codependientes se ven obligados a lidiar con ansiedad de separación después de que su plan de organizar una fiesta empapada en alcohol sale mal.",
+      "year": "22 de noviembre de 2007",
+      "genre": "comedy",
+      "cast": [
+        "Jonah Hill", 
+        "Michael Cera",  
+        "Christopher Mintz-Plasse"
+      ],
+      "crew": [
+        "Greg Mottola",
+        "Seth Rogen and Evan Goldberg"
+      ],
+      "rating": 3.9,
+      "picture": "https://m.media-amazon.com/images/M/MV5BY2VkMDg4ZTYtN2M3Yy00NWZiLWE2ODEtZjU5MjZkYWNkNGIzXkEyXkFqcGdeQXVyODY5Njk4Njc@._V1_.jpg"
+    }
+  ]
+}
