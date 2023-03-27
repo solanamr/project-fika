@@ -10,12 +10,15 @@ This test was made in the period of 7 days, where it had to be created a managme
 The platform has to have a search input for searching movies, an add movie component, two sorts: an alphabetic one and a genre one. Also it has to have a detail of all the movies. This movies were created by making a JSON file that simulates an API. 
 
 When you first enter the web you can see the landing where there's a display of all the movies.
+
 ![image](https://user-images.githubusercontent.com/87136807/227972878-6940a441-4c5d-49f9-9e14-935b2b7d5c5e.png)
 
 If you click on any movie you can see the details of it. Where you can find: a poster, the title, the genre, a brief description, the cast and crew and the rating of such movie 
+
 ![image](https://user-images.githubusercontent.com/87136807/227975502-5ab8eab8-385c-47b1-bc89-2f77e46e6659.png)
 
 To create a movie you have to click the "Agregar película" button, this leads to another component where you have the form to create the movie.
+
 ![image](https://user-images.githubusercontent.com/87136807/227976837-c0d8f404-3242-4fd8-8b26-5de7a311d02f.png)
 
 
