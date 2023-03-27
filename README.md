@@ -38,9 +38,9 @@ To run the project you have to run some scripts.
 First of all you have to clone the repository, then you have to open the folder, open the console and type `npm install` or `npm i` so the modules (node_modules) can install and you can run the scripts without a problem.
 
 The first one is the one to run JSON server.
-To do this you have to enter the folder project, open the console and go to the public file. To do this you have to type in the console `cd public` and press enter, this enters the public file where the fake API is located. Then you have to run: `json-server --watch movies.json --port 3001` (The port part is because the project runs in port 3000 which is the same port that runs JSON server, so the library gives you the option to run it in another port, which has to be include in the script).
+To do this you have to enter the public folder. To do this you have to type in the console `cd public` and press enter, this enters the public folder where the fake API is located. Then you have to run: `json-server --watch movies.json --port 3001` (The port part is because the project runs in port 3000 which is the same port that runs JSON server, so the library gives you the option to run it in another port, which has to be include in the script).
 
-After this script is up, you have to run the script to load the project. This time, you have to open another console (since you have to let running the JSON server port). For this it's not necessary to enter to any file since the script have to be running in the entire folder. You just have to type `npm start` and wait for the project to load. And voilá, you now have running the test and you can start trying it.
+After this script is up, you have to run the script to load the project. This time, you have to open another console (since you have to let running the JSON server port). For this it's not necessary to enter to any folder since the script have to be running in the entire project. You just have to type `npm start` and wait for the project to load. And voilá, you now have running the test and you can start trying it.
 
 Hope your experience with the platform is a good one!
 
