@@ -35,6 +35,8 @@ The technologies use for this project are:
 
 To run the project you have to run some scripts. 
 
+First of all you have to clone the repository, then you have to open the folder, open the console and type `npm install` or `npm i` so the modules (node_modules) can install and you can run the scripts without a problem.
+
 The first one is the one to run JSON server.
 To do this you have to enter the folder project, open the console and go to the public file. To do this you have to type in the console `cd public` and press enter, this enters the public file where the fake API is located. Then you have to run: `json-server --watch movies.json --port 3001` (The port part is because the project runs in port 3000 which is the same port that runs JSON server, so the library gives you the option to run it in another port, which has to be include in the script).
 
